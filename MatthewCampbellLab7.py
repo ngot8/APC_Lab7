@@ -236,7 +236,7 @@ class admin(user):
 
 #SQLITE3 INITIALIZATION
 import sqlite3
-con = sqlite3.connect('lab5.db')
+con = sqlite3.connect('matthewcampbelllab7.db')
 con.execute("PRAGMA foreign_keys = ON")
 cur = con.cursor()
 #Create Course table (if not exists)
