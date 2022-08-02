@@ -1,5 +1,5 @@
 # APC_Lab7
 
-Tam Ngo
-Dylan Kaber
+Tam Ngo,
+Dylan Kaber,
 Matthew Campbel
